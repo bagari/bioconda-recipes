@@ -1,6 +1,6 @@
 {% set name = "meta-neuro" %}
 {% set version = "2.1.0" %}
-{% set sha256 = "74707dbbd8c281000ad7b24c25797785000e9ee85243675e6c9d988444b15beb" %}
+{% set sha256 = "7352199fa7d65873004b55b0978fbff4597ac6f2490c6edce4dafa5292f4aee5" %}
 
 package:
   name: {{ name|lower }}
